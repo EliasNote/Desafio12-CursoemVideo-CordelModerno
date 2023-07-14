@@ -33,11 +33,11 @@ main p{
     background-position-y: center;
     background-image: url("imagens/background001.jpg");
     padding: 90px 0 90px 30px;
-    box-shadow: inset 10px 10px 10px 1px rgba(0, 0, 0, 0.361);
+    box-shadow: inset 10px 10px 10px 1px rgba(0, 0, 0, 0.324);
 }
 #main2 > p , #main4 > p{
+    display: inline-block;
     background: rgba(0, 0, 0, 0.487);
-    width:max-content;
     padding: 5px;
 }
 #main4{
