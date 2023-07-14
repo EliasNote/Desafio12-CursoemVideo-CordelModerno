@@ -26,6 +26,7 @@ main p{
     padding: 100px 0 200px 30px;
     font-family: 'Sriracha', cursive;
     line-height: 2em;
+    text-shadow: 1px 1px 0 black;
 }
 #main2, #main4{
     color: white;
